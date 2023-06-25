@@ -10,3 +10,6 @@
 
 # Sensitive Data 
 *.tfvars
+
+# hcl file 
+*.hcl
