@@ -31,3 +31,4 @@ resource "azurerm_resource_group" "example" {
 
 
 // Terraform configuration 
+// Terraform configuration 
