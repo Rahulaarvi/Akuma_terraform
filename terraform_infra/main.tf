@@ -33,3 +33,4 @@ resource "azurerm_resource_group" "example" {
 // Terraform configuration 
 // Terraform configuration 
 // Darius
+// Changes done on 18-08-2023
