@@ -1,5 +1,5 @@
-terraform {
-  backend "azure" {}
+ terraform {
+   backend "azurerm" {}
 }
 
 
