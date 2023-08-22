@@ -1,0 +1,4 @@
+name: "MY First Yaml Pipeline"
+trigger: master
+pool: Default
+stages: "Running first stage"
